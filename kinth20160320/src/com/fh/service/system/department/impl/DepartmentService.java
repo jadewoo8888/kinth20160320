@@ -14,8 +14,7 @@ import com.fh.service.system.department.DepartmentManager;
 
 /** 
  * 说明： 组织机构
- * 创建人：FH Q313596790
- * 创建时间：2015-12-16
+ * 创建人：wuzhuyang
  * @version
  */
 @Service("departmentService")

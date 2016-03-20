@@ -25,8 +25,7 @@ import com.fh.util.PageData;
 import com.fh.util.RightsHelper;
 /** 
  * 类名称：MenuController 菜单处理
- * 创建人：FH 
- * 创建时间：2015年10月27日
+ * 创建人：wuzhuyang
  * @version
  */
 @Controller

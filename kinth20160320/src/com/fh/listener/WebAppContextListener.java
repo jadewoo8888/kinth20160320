@@ -10,7 +10,7 @@ import com.fh.util.Const;
  * 
 * 类名称：WebAppContextListener.java
 * 类描述： 
-* 作者：FH 
+* 作者：wuzhuyang
 * 联系方式：
 * @version 1.0
  */

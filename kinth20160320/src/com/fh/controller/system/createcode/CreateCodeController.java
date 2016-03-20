@@ -30,8 +30,7 @@ import com.fh.util.PathUtil;
 
 /** 
  * 类名称：CreateCodeController 代码生成器
- * 创建人：FH Q313596790
- * 修改时间：2015年11月23日
+ * 创建人：wuzhuyang
  * @version
  */
 @Controller

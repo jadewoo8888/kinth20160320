@@ -32,8 +32,7 @@ import com.fh.util.PageData;
 
 /** 
  * 类名称：AppuserController
- * 创建人：FH Q313596790
- * 修改时间：2014年11月17日
+ * 创建人：wuzhuyang
  * @version
  */
 @Controller

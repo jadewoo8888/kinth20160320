@@ -47,7 +47,8 @@ body {   padding: 0;    margin-top:0px;margin: 0px;}
 #loginbox { overflow: hidden !important; z-index: 100;  text-align: center;  position: relative; margin-top:10%;}
 
 /* #loginbox form{ width:100%; background:#2E363F; position:relative; top:0; left:0; } */
-#loginbox form{ width:100%; background-color: rgba(0, 0, 0, 0.5);  position:relative; top:0; left:0; }
+/*#loginbox form{ width:100%; background-color: rgba(0, 0, 0, 0.5);  position:relative; top:0; left:0; }原来样式*/
+#loginbox form{ width:100%; background-color: rgba(0, 0, 0, 0.1);  position:relative; top:0; left:0; }
 
 #loginbox .form-actions { padding: 14px 20px 15px;}
 #loginbox .form-actions .pull-left { margin-top:0px;}
